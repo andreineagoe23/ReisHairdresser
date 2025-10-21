@@ -9,7 +9,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <Router basename="/reis-hair-beauty">
+    <Router basename="/ReisHairdresser">
       <div className="flex flex-col min-h-screen">
         <Header />
         <main className="flex-grow">
