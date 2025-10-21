@@ -1,9 +1,9 @@
 {
-  "name": "reis-hair-beauty",
+  "name": "ReisHairdresser",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://andreineagoe23.github.io/reis-hair-beauty",
+  "homepage": "https://andreineagoe23.github.io/ReisHairdresser",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
