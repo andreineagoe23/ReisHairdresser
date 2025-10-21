@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://<your-github-username>.github.io/reis-hair-beauty",
+  "homepage": "https://andreineagoe23.github.io/reis-hair-beauty",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
